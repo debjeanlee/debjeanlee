@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**debjeanlee/debjeanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is deb!
+If you're from Singapore, you may have seen me in the news or in some SkillsFuture advertisements as the Singer turned Full-Stack Developer..
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with React and React Native
+- 🌱 I’m always learning to be better at programming
+- 👯 I’m looking to collaborate on projects that improve QOL or that are related to food or plants 🤪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 [Find me on Social Media](https://linktr.ee/debjeanlee)
+
+- ⚡ Fun fact: I used to be a rösti and pasta chef too 👩🏻‍🍳
+
+[![debjeanlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=debjeanlee)](https://github.com/debjeanlee/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjeanlee&layout=compact)](https://github.com/debjeanlee/github-readme-stats)
